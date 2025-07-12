@@ -1,4 +1,4 @@
-# IoT.mdThis document contains a collection of the top 50 most important interview questions and answers from various technical domains. Each section includes fundamental and advanced questions along with example code where applicable.
+this document contains a collection of the top 50 most important interview questions and answers from various technical domains. Each section includes fundamental and advanced questions along with example code where applicable.
 
 Topics Covered:
 
